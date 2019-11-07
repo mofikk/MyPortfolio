@@ -1,14 +1,14 @@
 /* lg */ 
 @media (min-width: 1400px) {
-	
+
 }
 
 /* md */
 @media (min-width: 992px) and (max-width: 1199px) {
 
 	.banner-info h2 {
-	    font-size: 110px;
-	    line-height: 80px;
+		font-size: 110px;
+		line-height: 80px;
 	}	
 	#navigation.menu-one .navbar {
 		width: 27%;
@@ -41,8 +41,8 @@
 		height: 64px;
 	}
 	.logo {
-	    height: 64px;
-	    padding: 2px 15px;
+		height: 64px;
+		padding: 2px 15px;
 	}	
 	#navigation .navbar-nav > li .social li a {
 		padding: 20px 10px;
@@ -50,46 +50,46 @@
 }
 
 @media (max-width: 991px) {
-  .navbar-header {
-      float: none;
-  }
-  .navbar-collapse {
-  	margin-top: 65px;
-  }
-  .navbar-toggler {
-  	position: absolute;
-  	top:20px;
-  	right: 30px;
-  	color: #fff;
-  	padding: 6px 8px;
-  	line-height: 0;
-  	border: 1px solid #fff;
-  }
-  .home-one .logo {
-  	padding: 9px 30px;
-  	margin-left: 0;
-  }
-  .navbar-toggler-icon {
-  	width: inherit;
-  	height: inherit;
-  }
-  .navbar-left,.navbar-right {
-      float: none !important;
-  }
-  .navbar-toggle {
-      display: block;
-      margin-top: 17px;
-  }
-  .navbar-nav {
-      float: none!important;
-  }
-  .navbar-nav>li {
-      float: none;
-  }
-  .collapse.in{
-      display:block !important;
-  }
-  .home-two .home-social {
+	.navbar-header {
+		float: none;
+	}
+	.navbar-collapse {
+		margin-top: 65px;
+	}
+	.navbar-toggler {
+		position: absolute;
+		top:20px;
+		right: 30px;
+		color: #fff;
+		padding: 6px 8px;
+		line-height: 0;
+		border: 1px solid #fff;
+	}
+	.home-one .logo {
+		padding: 9px 30px;
+		margin-left: 0;
+	}
+	.navbar-toggler-icon {
+		width: inherit;
+		height: inherit;
+	}
+	.navbar-left,.navbar-right {
+		float: none !important;
+	}
+	.navbar-toggle {
+		display: block;
+		margin-top: 17px;
+	}
+	.navbar-nav {
+		float: none!important;
+	}
+	.navbar-nav>li {
+		float: none;
+	}
+	.collapse.in{
+		display:block !important;
+	}
+	.home-two .home-social {
 		top: 100px;
 	}
 	.banner-content .banner-info {
@@ -122,7 +122,7 @@
 /* sm */
 @media (min-width: 768px) and (max-width: 991px) {
 	.navbar-toggle  {
-	 	margin-top: 15px;
+		margin-top: 15px;
 	}
 	#navigation.menu-one .navbar-nav > li:first-child a {
 		margin-left: 20px;
@@ -147,8 +147,8 @@
 		padding-left: 0;
 	}
 	.banner-info h2 {
-	    font-size: 85px;
-	    line-height: 50px;
+		font-size: 85px;
+		line-height: 50px;
 	}	
 	.banner-info h3 {
 		letter-spacing: 15px;
@@ -157,7 +157,7 @@
 		width: 48%;
 	}
 	.achievement li + li {
-	    margin-left: 0;
+		margin-left: 0;
 	}	
 	.achievement-info h4 {
 		font-size: 14px;
@@ -252,8 +252,8 @@
 		width: 100%;
 	}
 	#navigation.menu-one .navbar:before {
-	    left: -100%;
-	    right: 0;
+		left: -100%;
+		right: 0;
 	}
 	.home-one .navbar-nav {
 		margin-top: 10px;
@@ -273,7 +273,7 @@
 		width: 200%;
 	}
 	.navbar-toggle  {
-	 	margin-top:8px;
+		margin-top:8px;
 	}
 	#home-banner{
 		background-color: #f9f9f9;
@@ -293,9 +293,9 @@
 		letter-spacing: 15px;
 	}
 	.section-padding {
-	    overflow: hidden;
-	    padding-bottom: 30px;
-	    padding-top: 30px;
+		overflow: hidden;
+		padding-bottom: 30px;
+		padding-top: 30px;
 	}
 	.about-section .section-title,
 	.section-title {
@@ -485,7 +485,7 @@
 		padding: 30px 20px 25px;
 	}
 	.blog-social {
-	    margin: 20px 0;
+		margin: 20px 0;
 	}
 	#navigation.menu-one .navbar-nav > li i {
 		display: none;
@@ -544,10 +544,10 @@
 		width: 100%;
 	}
 	.logo {
-	    background-color: #2d3038;
-	    height: 57px;
-	    padding: 8px 15px;
-	    max-width: 60%;
+		background-color: #2d3038;
+		height: 57px;
+		padding: 8px 15px;
+		max-width: 60%;
 	}
 	.home-one .logo {
 		max-width: 100%;
@@ -705,3 +705,4 @@
 		height: 12%;
 	}
 }
+
